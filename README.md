@@ -1,1 +1,1 @@
-# sharpy
+# sharpy : open cv sharpening tool
